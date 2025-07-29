@@ -1,6 +1,6 @@
 # Bruno Vigo
 
-**`Full Stack Developer`**
+**`Software Developer`**
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <img align="right" alt="terminal-gif" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90px" />
 
-I’m a full stack developer focused on back-end, with experience in tech support, ERP system integration, and web application development. I began my journey working with APIs and databases, and since then, I’ve been diving deeper into system architecture, performance, and automation.
+I’m a software developer focused on back-end, with experience in tech support, ERP system integration, and web application development. I began my journey working with APIs and databases, and since then, I’ve been diving deeper into system architecture, performance, and automation.
 
 I’m especially passionate about **back-end development**, **Docker-based infrastructure**, and **automation with Node.js**. I value clean code, best practices, and collaboration in agile environments to deliver scalable and efficient solutions.
 
